@@ -1,0 +1,15 @@
+for install  run this command in folder directory   composer install 
+
+
+
+for clear the cache of project "php artisan config:cache"
+
+
+
+for running project open powershell oon the folder by pressing "Ctrl-Shift and then right click" then type "php artisan serve"
+
+admin password:rCWfbKTCRB(t+M@d
+
+
+
+
