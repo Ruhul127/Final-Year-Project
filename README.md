@@ -1,9 +1,10 @@
 # Mile End Training Sessions - README
 
 ## Project Overview
+
 Mile End Training Sessions is a football training platform designed to provide inclusive training opportunities for individuals at various skill levels. The platform connects users with professional trainers, allowing them to book in-person football training sessions to improve their skills and maintain a healthy lifestyle.
 
-https://drive.google.com/file/d/14cjA9LqICz8AkUNuijWFg2dXj9snxUIO/view?usp=drive_link
+[Final Year Project Report](https://drive.google.com/file/d/14cjA9LqICz8AkUNuijWFg2dXj9snxUIO/view?usp=drive_link)
 
 ## Features
 - **User Registration & Login**: Users can create accounts and manage their profiles.
@@ -49,4 +50,3 @@ https://drive.google.com/file/d/14cjA9LqICz8AkUNuijWFg2dXj9snxUIO/view?usp=drive
 Special thanks to project supervisor **Mohamed Shah** for guidance and feedback throughout development.
 
 ---
-
